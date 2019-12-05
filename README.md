@@ -2,6 +2,7 @@
 A different spin on openpilot magnetic mounts, inspired by [Tunder Mag Mount](https://github.com/Tundergit/mag-mount-fast)
 
 ## This is a WIP!!! Subject to change
+Also, NOTE - My version is the **60mm version**, I have not printed the 80mm version but it is there if anybody wants it.
 
 ![Current Product](https://i.imgur.com/jF9zcHw.jpg)
 

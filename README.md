@@ -4,7 +4,7 @@ A different spin on openpilot magnetic mounts, inspired by [Tunder Mag Mount](ht
 ## This is a WIP!!! Subject to change
 ## This mount is for the Leeco Le Pro x720 or similar sizes (73.9 mm x 151.4 mm x 7.5 mm)
 
-This mount was created because, while I liked the other quick-remove mounts that people have designed, I wanted one that was low profile and would be completely out of sight. So the cmdmount uses a 60mm fan which fits nicely behind a Leeco x720. It is also designed theoretically for better airflow, because of the channels that direct air to and across the back of the phone.
+This mount was created because, while I liked the other quick-remove mounts that people have designed, I wanted one that was low profile and would be completely out of sight. So the cmdmount uses a 60mm fan which fits nicely behind a Leeco x720. It is also designed for theoretically better airflow, because of the channels that direct air to and across the back of the phone.
 
 Also, NOTE - My version is the **60mm version**, I have not printed the 80mm version but it is there if anybody wants it.
 

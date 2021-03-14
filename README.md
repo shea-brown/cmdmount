@@ -7,7 +7,6 @@ Soon to come are heatsinks and a PCB to send power to the fan with USB C.
 
 ## This mount is for the Leeco Le Pro x720 or similar sizes (73.9 mm x 151.4 mm x 7.5 mm)
 
-This mount was created because, while I like other quick-remove mounts that people have designed, I wanted one that was low profile and would be completely out of sight. So the cmdmount uses a 60mm fan which fits nicely behind a Leeco x720.
 
 Also, NOTE - The version shown is the **60mm version**, I have not printed the 80mm version but it is there if anybody wants it.
 
@@ -18,7 +17,7 @@ Also, NOTE - The version shown is the **60mm version**, I have not printed the 8
 ![Assembly1](https://i.imgur.com/Oqw8CGs.png)
 ![Assembly2](https://i.imgur.com/mDZj2a4.png)
 
-Some people have said that the magnet can cause interference with the fan's operation. I have not encountered this, but try orienting your magnets before securing them permanently. You may need to flip their poles.
+Some people have said that the magnet can cause interference with the fan's operation. I have not encountered this, but you might try orienting your magnets before securing them permanently. You may need to flip their poles.
 
 ### Print Orientation:
 ![Print Orientation](https://i.imgur.com/KAg5733.png)

@@ -8,7 +8,7 @@ This mount was created because, while I liked the other quick-remove mounts that
 
 Also, NOTE - My version is the **60mm version**, I have not printed the 80mm version but it is there if anybody wants it.
 
-![Current Product](https://i.imgur.com/jF9zcHw.jpg)
+![Current Product](https://s4.gifyu.com/images/mountdemo.gif)
 
 More images and videos coming soon.
 
